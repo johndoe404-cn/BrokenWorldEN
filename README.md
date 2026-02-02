@@ -21,4 +21,4 @@ A total conversion mod for Hearts of Iron IV that shatters the world into countl
 
 ## Credits
 Original mod by: 更的水杯
-English translation by: [johndoe404-cn] & DeepSeek
+English translation by: [johndoe404](https://github.com/johndoe404-cn) & DeepSeek
